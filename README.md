@@ -1,6 +1,4 @@
-Here’s a structured README for your **Directory Maker** script, styled like the one I wrote for your gradebook project:
 
----
 
 # Directory Maker Bash Script
 
